@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977377281160",
+    "project_id": "flutter-app-fast-c29b0",
+    "storage_bucket": "flutter-app-fast-c29b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977377281160:android:b09ede43fcf756e7cfcb3d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_fast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk9HhUVJF54N18vr2jir_gDZrptebFa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
